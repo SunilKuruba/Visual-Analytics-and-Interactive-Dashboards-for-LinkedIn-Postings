@@ -1,6 +1,6 @@
 # Visual Analytics of LinkedIn Job Postings
 
-<img width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/077ad007-75a7-4be1-8563-da23ba6e1783" />
+<img width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/31f64ee5-b04e-484d-9ccc-e292f2d1dc37" />
 
 ## (1) Group Information  
 
